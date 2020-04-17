@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
   return "YES INDEED!";
 }
   else if (lowercase.toLowerCase() === lowercase) {
-    return "I cant hear you";
+    return "I can\'t hear you";
   }
 
   else if (mixedCase.toLowerCase() === mixedCase) {
