@@ -30,3 +30,7 @@ function sayHiToGrandma(string) {
      return "I love you, too.";
 }
 }
+
+uppercase = "HELLO!";
+lowercase = "hello!";
+mixedCase = "I love you, Grandma";
