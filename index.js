@@ -31,4 +31,4 @@ function sayHiToGrandma(string) {
 }
 }
 
-uppercase = "HELLO!";
+var uppercase = "HELLO!";
