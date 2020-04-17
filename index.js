@@ -31,6 +31,6 @@ function sayHiToGrandma(string) {
 }
 }
 
-var uppercase = "HELLO!";
-var lowercase = "hello!";
-var mixedCase = "I love you, Grandma.";
+sayHiToGrandma("HELLO!");
+sayHiToGrandma("hello!");
+sayHiToGrandma("I love you, Grandma.");
